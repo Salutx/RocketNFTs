@@ -6,6 +6,8 @@ Welcome to the project. <br>
 I come through this project to put into **practice** methods **learned** on the Front-End, <br>
 created with **HTML, CSS3, JS** it is a presentation page. **(non-dynamic)**. <br>
 
+@Rocketseat Challenge
+
 ## Technologies (Project) ![#ff5b50](https://via.placeholder.com/10/ff5b50/ffffff?text=+)
 ![html5](https://img.shields.io/badge/HTML5-ff5b50?style=for-the-badge&logo=html5&logoColor=white) 
 ![css](https://img.shields.io/badge/CSS3-ff5b50?style=for-the-badge&logo=css3&logoColor=white) 
